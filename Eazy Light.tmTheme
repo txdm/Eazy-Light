@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>A light Sublime Text color theme for web developers that meshes Chrome Developer Tools,  XCode, classic BBEdit, and Eifell. Optimized for HTML, CSS, and JavaScript.</string>
+	<string>A light Sublime Text color scheme for web developers that meshes Chrome Developer Tools,  XCode, classic BBEdit, and Eifell. Optimized for HTML, CSS, and JavaScript.</string>
 	<key>name</key>
 	<string>Eazy Light</string>
 	<key>settings</key>
@@ -321,7 +321,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.eazy_light</string>
+	<string>colorscheme.light.eazy_light</string>
 	<key>author</key>
 	<string>David McKnight</string>
 </dict>
