@@ -9,6 +9,12 @@ Eazy Light is a color scheme that should feel familiar to long-time Mac develope
 
 ![Eazy Light JS Sample](http://nullent.org/eazy-light/eazy-light-js.png)
 
+![Eazy Light PHP Sample](http://nullent.org/eazy-light/eazy-light-php.png)
+
+![Eazy Light JSON Sample](http://nullent.org/eazy-light/eazy-light-json.png)
+
+![Eazy Light XML Sample](http://nullent.org/eazy-light/eazy-light-xml.png)
+
 ## Development
 
 Eazy Light is just beginning development. Over time it will be updated with more colored elements.
